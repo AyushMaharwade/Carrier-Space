@@ -1,7 +1,7 @@
 # React Shadcn Starter
 
 React + Vite + TypeScript template for building apps with shadcn/ui.
-
+asdasaadsasadsa
 ## Getting Started
 
 ```
